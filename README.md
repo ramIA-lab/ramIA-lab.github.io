@@ -12,9 +12,10 @@ Cada repositorio incluye contenidos específicos 🗂️, pensados para ser reut
 
 ⚙️​ Preprocesamiento y Modelado Avanzado de Analisis de Datos (PMAAD)[https://ramia-lab.github.io/AdvancedModelling/]
 
-## Grado en Estadística (GEST)
+## 📊​ Grado en Estadística (GEST)
 
 ⚙️ Anàlisis Multivariant de Dades (AMD)​ []
+
 ⚙️​ Mètodes Estadístics per la mineria de dades (MeMDa) [https://ramia-lab.github.io/MLforEducation/]
 
-## Trabajos Final de Grado (TFG)[https://ramia-lab.github.io/tfg-tfm-website/]
+## 📓​ Trabajos Final de Grado (TFG)[https://ramia-lab.github.io/tfg-tfm-website/]
